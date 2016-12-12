@@ -15,6 +15,10 @@ import type.MyInterface;
 import type.Relation;
 import type.Type;
 
+/**
+ * Classe de test pour la représentation en SVG
+ * 
+ */
 public class TestDisplaySVG {
 	
 	JSVGCanvas canvas ;

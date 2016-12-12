@@ -1,5 +1,10 @@
 package interpretor;
 
+/**
+ * Cette classe désigne un point mobile qui va nous permettre de calculer les
+ * positions des éléments graphiques SVG
+ * 
+ */
 public class Curseur {
 
 	private int X;

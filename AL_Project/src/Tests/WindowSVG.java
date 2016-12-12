@@ -5,7 +5,7 @@ import java.awt.Color;
 import javax.swing.JFrame;
 
 /**
- * Cette fenêtre permet d'afficher le document
+ * Cette fenêtre permet d'afficher le canvas SVG dans une fenêtre graphique
  * 
  */
 public class WindowSVG extends JFrame {
