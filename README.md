@@ -26,7 +26,8 @@ Configuration et Utilisation :
             2.2.1 Remplacez "type.Relation" dans cette ligne de code pour afficher la classe voulue.
             2.2.2 Copier cette ligne et faites l'étape 1.1 pour ajouter une nouvelle classe à décrire.
             2.2.3 Supprimer cette ligne pour enlever la description d'une classe.
-        2.3 Lancer la méthode main de la classe Tests.WindowSVG ( une pop-up contiendra le diagramme à ce moment là ).
+        2.3 Vous modifier les couleurs du pinceau afin d'obtenir un rendu avec les couleurs souhaitées.
+        2.4 Lancer la méthode main de la classe Tests.WindowSVG ( une pop-up contiendra le diagramme à ce moment là ).
     
 Fichiers présents :
 
